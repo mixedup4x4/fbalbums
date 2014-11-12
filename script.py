@@ -1,3 +1,23 @@
+##############################################################################																			#
+#	Script to download all images from a Facebook album		     #
+#	Author: Kushagra Singh 						     #
+# 	Date: 13/11/2014 					       	     #
+#									     #
+#	Do download and install the following libraries before running:      #
+#		1. Mechanize 						     #
+#		2. PyQuery 						     #
+#									     #
+#	Notes: Not liable for misuseM; free for non-commercial projects      #
+#									     #
+#	Enter your facebook username 	--> line 33 			     #
+#						password 	--> line 34  #
+#						album name 	--> line 38  #
+#						album link 	--> line 39  #
+#									     #
+#	Images will get saved in a folder with the name as given by the user.#
+#	The folder will be  in	the same directory as that of the script     #
+##############################################################################
+
 from mechanize import Browser
 import re
 from pyquery import PyQuery
