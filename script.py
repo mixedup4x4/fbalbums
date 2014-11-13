@@ -9,7 +9,7 @@
 #									     #
 #	Notes: Not liable for misuse,  free for non-commercial projects      #
 #									     #
-#	Enter your facebook username 	--> line 33 			     #
+#		Enter your facebook 		username 	--> line 33  #
 #						password 	--> line 34  #
 #						album name 	--> line 38  #
 #						album link 	--> line 39  #
