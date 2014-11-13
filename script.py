@@ -7,7 +7,7 @@
 #		1. Mechanize 						     #
 #		2. PyQuery 						     #
 #									     #
-#	Notes: Not liable for misuseM; free for non-commercial projects      #
+#	Notes: Not liable for misuse,  free for non-commercial projects      #
 #									     #
 #	Enter your facebook username 	--> line 33 			     #
 #						password 	--> line 34  #
